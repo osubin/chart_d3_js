@@ -1,0 +1,46 @@
+#chartContainer{
+    height: 1500px;
+    background-color: #f6f6f6;
+}
+#chartContainer > .svg-chart-container{
+    height: 1500px;
+}
+.nodeContainer{
+    padding-top:30px;
+    background-color:none;
+    margin-left:1px;
+    border-radius:2px;
+    overflow:visible
+}
+.nodeDiv{
+    padding-top:0px;
+    background-color:white;
+    border:1px solid lightgray;
+}
+.imgDiv{
+    margin-top:-30px;
+    border-radius:100px;
+    width:60px;
+    height:60px;
+}
+.barDiv{
+    margin-top:-30px;
+    background-color:#3AB6E3;
+    height:10px;
+    border-radius:1px;
+}
+.nameDiv{
+    color:#111672;
+    font-size:16px;
+    font-weight:bold;
+}
+.positionDiv{
+    color:#404040;
+    font-size:16px;
+    margin-top:4px
+}
+.infoDiv{
+    padding:20px; 
+    padding-top:35px;
+    text-align:center
+}

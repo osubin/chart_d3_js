@@ -1,0 +1,296 @@
+{
+    
+    "id": "10000000",
+    "name": "대표이사",
+    "parentId": "",
+    "isGroup": "true",
+    "level": "1",
+    "children": [
+        {
+            "id": "10000001",
+            "name": "관리부문",
+            "parentId": "10000000",
+            "isGroup": "true",
+            "level": "2",
+            "children": [
+                {
+                    "id": "10000006",
+                    "name": "총무부",
+                    "parentId": "10000001",
+                    "isGroup": "true",
+                    "level": "3",
+                    "children": [
+                        {
+                            "id": "10000017",
+                            "name": "총무1팀",
+                            "parentId": "10000006",
+                            "isGroup": "true",
+                            "level": "4",
+                            "children": []
+                        },
+                        {
+                            "id": "10000018",
+                            "name": "총무2팀",
+                            "parentId": "10000006",
+                            "isGroup": "true",
+                            "level": "4",
+                            "children": []
+                        },
+                        {
+                            "id": "10000019",
+                            "name": "총무3팀",
+                            "parentId": "10000006",
+                            "isGroup": "true",
+                            "level": "4",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": "10000007",
+                    "name": "경리부",
+                    "parentId": "10000001",
+                    "isGroup": "true",
+                    "level": "3",
+                    "children": []
+                },
+                {
+                    "id": "10000008",
+                    "name": "구매자재부",
+                    "parentId": "10000001",
+                    "isGroup": "true",
+                    "level": "3",
+                    "children": [
+                        {
+                            "id": "10000020",
+                            "name": "구매자재1팀",
+                            "parentId": "10000008",
+                            "isGroup": "true",
+                            "level": "4",
+                            "children": []
+                        },
+                        {
+                            "id": "10000021",
+                            "name": "구매자재2팀",
+                            "parentId": "10000008",
+                            "isGroup": "true",
+                            "level": "4",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "10000002",
+            "name": "기술부문",
+            "parentId": "10000000",
+            "isGroup": "true",
+            "level": "2",
+            "children": [
+                {
+                    "id": "10000009",
+                    "name": "품질관리부",
+                    "parentId": "10000002",
+                    "isGroup": "true",
+                    "level": "3",
+                    "children": [
+                        {
+                            "id": "10000022",
+                            "name": "품질관리1팀",
+                            "parentId": "10000009",
+                            "isGroup": "true",
+                            "level": "4",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "10000003",
+            "name": "생산부문",
+            "parentId": "10000000",
+            "isGroup": "true",
+            "level": "2",
+            "children": [
+                {
+                    "id": "10000010",
+                    "name": "상품관리부",
+                    "parentId": "10000003",
+                    "isGroup": "true",
+                    "level": "3",
+                    "children": []
+                },
+                {
+                    "id": "10000011",
+                    "name": "기술부",
+                    "parentId": "10000003",
+                    "isGroup": "true",
+                    "level": "3",
+                    "children": [
+                        {
+                            "id": "10000023",
+                            "name": "기술1팀",
+                            "parentId": "10000011",
+                            "isGroup": "true",
+                            "level": "4",
+                            "children": []
+                        },
+                        {
+                            "id": "10000024",
+                            "name": "기술2팀",
+                            "parentId": "10000011",
+                            "isGroup": "true",
+                            "level": "4",
+                            "children": []
+                        },
+                        {
+                            "id": "10000025",
+                            "name": "기술3팀",
+                            "parentId": "10000011",
+                            "isGroup": "true",
+                            "level": "4",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "10000004",
+            "name": "영업부문",
+            "parentId": "10000000",
+            "isGroup": "true",
+            "level": "2",
+            "children": [
+                {
+                    "id": "10000012",
+                    "name": "해외영업부",
+                    "parentId": "10000004",
+                    "isGroup": "true",
+                    "level": "3",
+                    "children": [
+                        {
+                            "id": "10000026",
+                            "name": "해외영업1팀",
+                            "parentId": "10000012",
+                            "isGroup": "true",
+                            "level": "4",
+                            "children": []
+                        },
+                        {
+                            "id": "10000027",
+                            "name": "해외영업2팀",
+                            "parentId": "10000012",
+                            "isGroup": "true",
+                            "level": "4",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": "10000013",
+                    "name": "국내영업부",
+                    "parentId": "10000004",
+                    "isGroup": "true",
+                    "level": "3",
+                    "children": [
+                        {
+                            "id": "10000028",
+                            "name": "국내영업1팀",
+                            "parentId": "10000013",
+                            "isGroup": "true",
+                            "level": "4",
+                            "children": []
+                        },
+                        {
+                            "id": "10000029",
+                            "name": "국내영업2팀",
+                            "parentId": "10000013",
+                            "isGroup": "true",
+                            "level": "4",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": "10000014",
+                    "name": "고객관리부",
+                    "parentId": "10000004",
+                    "isGroup": "true",
+                    "level": "3",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "id": "10000005",
+            "name": "개발부문",
+            "parentId": "10000000",
+            "isGroup": "true",
+            "level": "2",
+            "children": [
+                {
+                    "id": "10000015",
+                    "name": "개발부",
+                    "parentId": "10000005",
+                    "isGroup": "true",
+                    "level": "3",
+                    "children": [
+                        {
+                            "id": "10000030",
+                            "name": "개발1팀",
+                            "parentId": "10000015",
+                            "isGroup": "true",
+                            "level": "4",
+                            "children": []
+                        },
+                        {
+                            "id": "10000031",
+                            "name": "개발2팀",
+                            "parentId": "10000015",
+                            "isGroup": "true",
+                            "level": "4",
+                            "children": []
+                        },
+                        {
+                            "id": "10000032",
+                            "name": "개발3팀",
+                            "parentId": "10000015",
+                            "isGroup": "true",
+                            "level": "4",
+                            "children": []
+                        },
+                        {
+                            "id": "10000033",
+                            "name": "개발4팀",
+                            "parentId": "10000015",
+                            "isGroup": "true",
+                            "level": "4",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": "10000016",
+                    "name": "부설연구소",
+                    "parentId": "10000005",
+                    "isGroup": "true",
+                    "level": "3",
+                    "children": [
+                        {
+                            "id": "10000034",
+                            "name": "R&D1팀",
+                            "parentId": "10000016",
+                            "isGroup": "true",
+                            "level": "4",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+
+}
